@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Amazon_Clone",
+    "imageSrc1": "projects/amazon/amz1.png",
+    "imageSrc2": "projects/amazon/amz2.png",
+    "imageSrc3": "projects/amazon/amz3.png",
+    "description": "This project is clone of amazon a e-commerce website where you select your desired product and add into cart.you can also remove it from cart.The price of the products also being calculated. Its also include firebass email authentication",
+    "skills": ["ReactJs", "Redux", "NodeJs","bootstrap","firebass auth"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/abhaymahato30/Amazon_Clone"
+  },
+  {
+    "title": "Text Utills",
+    "imageSrc1": "projects/text_editor/text2.png",
+    "imageSrc2": "projects/text_editor/text1.png",
+    "imageSrc3": "projects/text_editor/text3.png",
+    "description": "This project is text editor where you can convert your text into uppercase and lowercase.The number of letters and words are also being calculated.It also include the feature of dark mode",
+    "skills": ["ReactJs", "Javascript", "bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/abhaymahato30/text_utills"
+  },
+  {
+    "title": "Bitnews",   
+    "imageSrc1": "projects/news/news2.png",
+    "imageSrc2": "projects/news/news1.png",
+    "imageSrc3": "projects/news/news3.png",
+    "description": "This is a news website where you can search news.The options of different category news like sports, science,politics,etc are also availaible.",
+    "skills": ["Html", "Css", "Javascript","Api"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/abhaymahato30/newsSite"
+  }
+]
