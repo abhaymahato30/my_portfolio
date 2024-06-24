@@ -41,6 +41,7 @@
 .description h5{
   font-size: larger;
   color: rgb(255, 207, 48);
+  
 }
 
 .contactBtn {
@@ -114,8 +115,8 @@
   }
 }
 
-/* at screen 375 */
-@media screen and (max-width: 375px){
+/* at screen 425 */
+@media screen and (max-width: 425px){
 
   .heroImg {
     width: 80%;
